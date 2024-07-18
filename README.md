@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ysakh-with-a-v
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python for AI/ML and Data science
 - 📫 How to reach me vysakhtheofficialmail@gmail.com
 
 <!---
